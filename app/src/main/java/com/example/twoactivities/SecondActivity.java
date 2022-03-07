@@ -30,6 +30,5 @@ public class SecondActivity extends AppCompatActivity {
         replyIntent.putExtra(EXTRA_REPLY, reply);
         setResult(RESULT_OK,replyIntent);
         finish();
-
     }
 }
