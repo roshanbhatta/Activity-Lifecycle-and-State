@@ -1,8 +1,9 @@
 <resources>
-    <string name="app_name">Hello Toast</string>
+    <string name="app_name">Activity Lifecycle</string>
     <string name="button_toast">SAY HELLO</string>
     <string name="button_count">Count</string>
     <string name="count_initial_value">0</string>
     <string name="toast_message">Hello Toast!</string>
     <string name="secondActivity_message">Hello !!</string>
+    <string name="text_hint">This is an Edit Text</string>
 </resources>
